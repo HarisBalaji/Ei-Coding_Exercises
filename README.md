@@ -12,7 +12,7 @@ Use Case 1: Observer Pattern
 
 Use Case 2: Strategy Pattern
 * Scenario: Payment Processing System
-* Description: Implement a payment processing system that supports multiple payment methods (e.g., credit card, PayPal, bank transfer). The system should be able to switch between different payment strategies at runtime based on user selection.
+* Description: Implement a payment processing system that supports multiple payment methods (e.g., credit card, GPay, bank transfer). The system should be able to switch between different payment strategies at runtime based on user selection.
 
 ![observerPattern 27-07-2024 15_07_21](https://github.com/user-attachments/assets/2fc6fa12-63ab-4e45-a1f3-41cc46d20e94)
 
@@ -27,7 +27,7 @@ Use Case 3: Singleton Pattern
 
 Use Case 4: Factory Pattern
 * Scenario: Notification System
-* Description: Implement a notification system that can send different types of notifications (e.g., Email, SMS, Push Notification) based on the input parameters. The system should use a factory to instantiate the appropriate notification objects.
+* Description: Implement a notification system that can send different types of notifications (e.g., Email, SMS Notification) based on the input parameters. The system should use a factory to instantiate the appropriate notification objects.
 
 ![Coding Exercises Overview - Brave 27-07-2024 15_23_44](https://github.com/user-attachments/assets/b437a7c7-4564-40ae-a491-2e78b86aa854)
 
