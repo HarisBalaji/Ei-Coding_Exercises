@@ -51,7 +51,7 @@ Use Case 6: Composite Pattern
 
 ## Project 4: Smart Home System
 
-Solution that will incorporate the Observer, Factory Method, and Proxy patterns, as well as strong OOP principles.
+This solution will incorporate the Observer, Factory Method, and Proxy patterns, as well as strong OOP principles.
 
 SmartDevice Interface: This will be the common interface for all devices.
 Concrete Devices: Implementations of different devices (Light, Thermostat, DoorLock).
@@ -62,20 +62,28 @@ Observer: Observer pattern to notify devices of system changes.
 
 ### Output
 
+#### Adding a device
 ![C__Windows_System32_cmd exe 27-07-2024 17_26_05](https://github.com/user-attachments/assets/b9225023-609f-455a-8c7e-b44b0f23f3d1)
 
 ![C__Windows_System32_cmd exe 27-07-2024 17_26_13](https://github.com/user-attachments/assets/0f4499e4-0174-4b03-bbc2-5efae6c2e084)
 
+Viewing the status of each device
 ![C__Windows_System32_cmd exe 27-07-2024 17_26_22](https://github.com/user-attachments/assets/8edd8790-2ace-42c2-b605-ba124e1170f7)
 
+Turning on a device
 ![C__Windows_System32_cmd exe 27-07-2024 17_26_50](https://github.com/user-attachments/assets/da5431d3-d790-465d-b843-a1a8c4d60b91)
 
+Turning off a device
 ![C__Windows_System32_cmd exe 27-07-2024 17_27_15](https://github.com/user-attachments/assets/ae099a4c-f1fd-4225-b727-62f91717cf74)
 
+Setting schedule fo rdifferent devices
 ![C__Windows_System32_cmd exe 27-07-2024 17_27_32](https://github.com/user-attachments/assets/e3153694-7e14-48bc-91ea-5da7ddaa39a4)
 
+View the scheduled tasks
 ![C__Windows_System32_cmd exe 27-07-2024 17_27_39](https://github.com/user-attachments/assets/7d5317c6-c3fc-4321-b691-e163600aae27)
 
+Adding a trigger
 ![C__Windows_System32_cmd exe 27-07-2024 17_27_47](https://github.com/user-attachments/assets/df8ebd90-c4f5-402e-9220-69e52ca091c8)
 
+View the automated triggers
 ![C__Windows_System32_cmd exe 27-07-2024 17_27_54](https://github.com/user-attachments/assets/7592f00e-7c5b-4581-97d2-86ceb9274e33)
