@@ -1,4 +1,4 @@
-# Ei-Coding Exercise (Output)
+# Ei-Coding Exercises
 
 ## 1. Design patterns
 
