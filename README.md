@@ -55,11 +55,17 @@ Use Case 6: Composite Pattern
 Create a simulation for a Smart Home System that allows the user to control different smart devices such as lights, thermostats, and door locks via a central hub. The user should be able to set schedules, automate tasks, and view the status of each device.
 
 This solution will incorporate the Observer, Factory Method, and Proxy patterns, as well as strong OOP principles.
+
 SmartDevice Interface: This will be the common interface for all devices.
+
 Concrete Devices: Implementations of different devices (Light, Thermostat, DoorLock).
+
 Factory: Factory class to create instances of devices.
+
 CentralHub: This class will manage all devices, schedules, and triggers.
+
 Proxy: Proxy pattern to control access to devices.
+
 Observer: Observer pattern to notify devices of system changes.
 
 ### Output
